@@ -10,7 +10,7 @@
 cargo install trunk wasm-bindgen-cli && rustup target add wasm32-unknown-unknown
 ```
 
--   Serve on `localhost:3000`
+-   Serve on `localhost:8080`
 
 ```bash
 trunk serve
