@@ -15,3 +15,9 @@ cargo install trunk wasm-bindgen-cli && rustup target add wasm32-unknown-unknown
 ```bash
 trunk serve
 ```
+
+- Update Tailwind configurations
+
+```bash
+(cd ./tailwind-yew-builder && docker-compose up dev)
+```
